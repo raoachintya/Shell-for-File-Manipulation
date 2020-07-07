@@ -11,4 +11,4 @@ This has final.sh file that runs all the other shells in a sequential manner.
 
 To Run:
 
-1. Just run the command ./final.sh
+1. Just run the command ./final_working_shell.sh
